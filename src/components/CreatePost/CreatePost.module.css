@@ -1,0 +1,13 @@
+/* CreatePost.module.css */
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin: 12px 0;
+}
+
+.textarea {
+  min-height: 80px;
+  padding: 8px;
+  resize: vertical;
+}
